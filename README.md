@@ -7,10 +7,11 @@ Ce projet analyse les **festivals de musique** à travers le monde en utilisant 
 
 ## 🗂 Structure du projet
 ```plaintext
-/music-festival-analysis-2024.ipynb/            # Scripts et données liés au nettoyage
+/data_music_festival/                           # Données brutes
+/music-festival-analysis-2024.ipynb/            # Scripts liés au nettoyage
+/data_music_festival_cleaned_with_flags/        # Données des festivals nettoyées
 /music-festival-analysis-2024.pbix/             # Dashboard Power BI
 /app.py/                                        # Application Streamlit
-/data_music_festival_cleaned_with_flags/        # Données des festivals nettoyées
 README.md                                       # Documentation
 requirements.txt                                # Liste des dépendances Python
 ```
