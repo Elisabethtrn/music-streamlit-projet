@@ -1,0 +1,80 @@
+,Festival_Name,Location,Latitude_Location,Longitude_Location,Country,Latitude_country,Longitude_country,Year,Attendance_Numbers,Age_Category,Visitor_Demographics,Economic_Impact,Economic_Impact_USD,Music_Genre,Flag_URL
+0,Glastonbury Festival,Somerset,51.2093,-2.6453,UK,55.3781,-3.436,2024,200000,25-34,Music Enthusiasts,£100 million,126000000.0,Various,https://flagcdn.com/w320/gb.png
+1,Tomorrowland,Boom,51.0913,4.3717,Belgium,50.5039,4.4699,2024,400000,18-24,EDM Fans,€150 million,163500000.0,EDM,https://flagcdn.com/w320/be.png
+2,Sziget Festival,Budapest,47.4979,19.0402,Hungary,47.1625,19.5033,2024,500000,25-34,International Attendees,€130 million,141700000.0,Various,https://flagcdn.com/w320/hu.png
+3,Rock am Ring,Nürburg,50.3345,6.947,Germany,51.1657,10.4515,2024,90000,25-34,Rock Fans,€80 million,87200000.0,Rock,https://flagcdn.com/w320/de.png
+4,Roskilde Festival,Roskilde,55.6419,12.0878,Denmark,56.2639,9.5018,2024,130000,25-34,Alternative Music Lovers,DKK 70 million,9800000.000000002,Alternative,https://flagcdn.com/w320/dk.png
+5,Reading Festival,Reading,51.4543,-0.9781,UK,55.3781,-3.436,2024,100000,25-34,Rock and Indie Fans,£60 million,75600000.0,Rock/Indie,https://flagcdn.com/w320/gb.png
+6,Paris Jazz Festival,Paris,48.8566,2.3522,France,46.6034,1.8883,2024,60000,45-54,Jazz Enthusiasts,€20 million,21800000.0,Jazz,https://flagcdn.com/w320/fr.png
+7,Benicàssim Festival,Benicàssim,40.047,0.0483,Spain,40.4637,-3.7492,2024,40000,25-34,Pop and Indie Fans,€15 million,16350000.000000002,Pop/Indie,https://flagcdn.com/w320/es.png
+8,Exit Festival,Novi Sad,45.2671,19.8335,Serbia,44.0165,21.0059,2024,200000,18-24,Electronic and Rock Fans,€50 million,54500000.00000001,Electronic/Rock,https://flagcdn.com/w320/rs.png
+9,Primavera Sound,Barcelona,41.3851,2.1734,Spain,40.4637,-3.7492,2024,200000,25-34,Indie and Electronic Music Lovers,€70 million,76300000.0,Indie/Electronic,https://flagcdn.com/w320/es.png
+10,Lollapalooza Berlin,Berlin,52.52,13.405,Germany,51.1657,10.4515,2024,100000,25-34,Alternative Music Fans,€40 million,43600000.0,Alternative,https://flagcdn.com/w320/de.png
+11,Pukkelpop,Hasselt,50.9311,5.3378,Belgium,50.5039,4.4699,2024,200000,25-34,Diverse Music Genres,€60 million,65400000.00000001,Various,https://flagcdn.com/w320/be.png
+12,Arenal Sound,Burriana,39.8897,-0.0851,Spain,40.4637,-3.7492,2024,150000,18-24,Pop and Rock Fans,€30 million,32700000.000000004,Pop/Rock,https://flagcdn.com/w320/es.png
+13,Dour Festival,Dour,50.3956,3.7758,Belgium,50.5039,4.4699,2024,200000,25-34,Rock and Electronic Fans,€55 million,59950000.00000001,Rock/Electronic,https://flagcdn.com/w320/be.png
+14,Rock Werchter,Werchter,50.9671,4.7002,Belgium,50.5039,4.4699,2024,150000,25-34,Rock Enthusiasts,€85 million,92650000.0,Rock,https://flagcdn.com/w320/be.png
+15,Sonar Festival,Barcelona,41.3851,2.1734,Spain,40.4637,-3.7492,2024,100000,25-34,Electronic Music Fans,€35 million,38150000.0,Electronic,https://flagcdn.com/w320/es.png
+16,Wacken Open Air,Wacken,54.0222,9.3766,Germany,51.1657,10.4515,2024,75000,25-34,Metal Fans,€45 million,49050000.0,Metal,https://flagcdn.com/w320/de.png
+17,T in the Park,Strathallan Castle,56.2855,-3.6886,UK,55.3781,-3.436,2024,80000,25-34,Rock and Pop Fans,£40 million,50400000.0,Rock/Pop,https://flagcdn.com/w320/gb.png
+18,Mysteryland,Haarlem,52.3874,4.6462,Netherlands,52.1326,5.2913,2024,90000,18-24,EDM Fans,€25 million,27250000.000000004,EDM,https://flagcdn.com/w320/nl.png
+19,Kendal Calling,Kendal,54.3268,-2.7476,UK,55.3781,-3.436,2024,40000,25-34,Indie and Alternative Music Fans,£15 million,18900000.0,Indie/Alternative,https://flagcdn.com/w320/gb.png
+20,Latitude Festival,Suffolk,52.1872,0.9708,UK,55.3781,-3.436,2024,45000,25-34,Diverse Music and Arts Fans,£20 million,25200000.0,Various,https://flagcdn.com/w320/gb.png
+21,Nass Festival,Shepton Mallet,51.1894,-2.5472,UK,55.3781,-3.436,2024,30000,25-34,Music and Action Sports Fans,£12 million,15120000.0,Various,https://flagcdn.com/w320/gb.png
+22,Green Man Festival,Brecon Beacons,51.8833,-3.436,UK,55.3781,-3.436,2024,25000,25-34,Indie and Folk Music Fans,£10 million,12600000.0,Indie/Folk,https://flagcdn.com/w320/gb.png
+23,Summer Breeze,Feucht,49.376,11.2174,Germany,51.1657,10.4515,2024,40000,25-34,Metal and Hardcore Fans,€30 million,32700000.000000004,Metal/Hardcore,https://flagcdn.com/w320/de.png
+24,Parklife Festival,Manchester,53.4808,-2.2426,UK,55.3781,-3.436,2024,80000,18-24,Electronic and Indie Music Fans,£25 million,31500000.0,Electronic/Indie,https://flagcdn.com/w320/gb.png
+25,Electric Daisy Carnival,London,51.5074,-0.1278,UK,55.3781,-3.436,2024,60000,25-34,EDM Fans,£30 million,37800000.0,EDM,https://flagcdn.com/w320/gb.png
+26,Splendour in the Grass,Bendigo,-36.757,144.2794,Australia,-25.2744,133.7751,2024,40000,25-34,Indie and Electronic Fans,AU$20 million,13200000.0,Indie/Electronic,https://flagcdn.com/w320/au.png
+27,Creamfields,Cheshire,53.2326,-2.6103,UK,55.3781,-3.436,2024,70000,25-34,EDM Fans,£35 million,44100000.0,EDM,https://flagcdn.com/w320/gb.png
+28,Montreux Jazz Festival,Montreux,46.4312,6.9107,Switzerland,46.8182,8.2275,2024,20000,35-44,Jazz and Blues Fans,CHF 10 million,11399999.999999998,Jazz/Blues,https://flagcdn.com/w320/ch.png
+29,Nyege Nyege Festival,Jinja,0.4244,33.204,Uganda,1.3733,32.2903,2024,20000,25-34,Afrobeat and Electronic Fans,USD 5 million,5000000.0,Afrobeat/Electronic,https://flagcdn.com/w320/ug.png
+30,Boogaloo Festival,Valencia,39.4699,-0.3763,Spain,40.4637,-3.7492,2024,35000,25-34,Indie and Electronic Fans,€18 million,19620000.0,Indie/Electronic,https://flagcdn.com/w320/es.png
+31,Sundance Festival,Park City,40.6461,-111.497,USA,37.0902,-95.7129,2024,47000,35-44,Film and Music Fans,USD 25 million,25000000.0,Various,https://flagcdn.com/w320/us.png
+32,Mad Cool Festival,Madrid,40.4168,-3.7038,Spain,40.4637,-3.7492,2024,80000,25-34,Rock and Alternative Fans,€45 million,49050000.0,Rock/Alternative,https://flagcdn.com/w320/es.png
+33,Heineken Open'er,Gdynia,54.5189,18.5305,Poland,51.9194,19.1451,2024,60000,25-34,Diverse Music Genres,PLN 30 million,7500000.0,Various,https://flagcdn.com/w320/pl.png
+34,Gurten Festival,Bern,46.9481,7.4474,Switzerland,46.8182,8.2275,2024,30000,25-34,Pop and Rock Fans,CHF 8 million,9120000.0,Pop/Rock,https://flagcdn.com/w320/ch.png
+35,Lovebox Festival,London,51.5074,-0.1278,UK,55.3781,-3.436,2024,45000,25-34,Electronic and Urban Music Fans,£22 million,27720000.0,Electronic/Urban,https://flagcdn.com/w320/gb.png
+36,Ejekt Festival,Athens,37.9838,23.7275,Greece,39.0742,21.8243,2024,30000,25-34,Rock and Electronic Fans,€12 million,13080000.000000002,Rock/Electronic,https://flagcdn.com/w320/gr.png
+37,Ruisrock,Turku,60.4518,22.2666,Finland,61.9241,25.7482,2024,35000,25-34,Pop and Rock Fans,€10 million,10900000.0,Pop/Rock,https://flagcdn.com/w320/fi.png
+38,Melt! Festival,Großpösna,51.2651,12.4892,Germany,51.1657,10.4515,2024,50000,25-34,Electronic and Indie Fans,€25 million,27250000.000000004,Electronic/Indie,https://flagcdn.com/w320/de.png
+39,South West Four,London,51.5074,-0.1278,UK,55.3781,-3.436,2024,30000,25-34,Electronic and Dance Fans,£15 million,18900000.0,Electronic/Dance,https://flagcdn.com/w320/gb.png
+40,Boomtown Fair,Winchester,51.0632,-1.308,UK,55.3781,-3.436,2024,60000,25-34,Diverse Music and Arts Fans,£40 million,50400000.0,Various,https://flagcdn.com/w320/gb.png
+41,Coachella Valley Music and Arts Festival,Indio,33.7206,-116.2156,USA,37.0902,-95.7129,2024,125000,25-34,Various Music Fans,USD 50 million,50000000.0,Various,https://flagcdn.com/w320/us.png
+42,Lollapalooza Paris,Paris,48.8566,2.3522,France,46.6034,1.8883,2024,75000,25-34,Rock and Electronic Fans,€30 million,32700000.000000004,Rock/Electronic,https://flagcdn.com/w320/fr.png
+43,Valencia Music Festival,Valencia,39.4699,-0.3763,Spain,40.4637,-3.7492,2024,35000,25-34,Electronic and Rock Fans,€15 million,16350000.000000002,Electronic/Rock,https://flagcdn.com/w320/es.png
+44,Festival Internacional de Jazz,Mexico City,19.4326,-99.1332,Mexico,23.6345,-102.5528,2024,40000,35-44,Jazz Fans,MXN 20 million,1080000.0,Jazz,https://flagcdn.com/w320/mx.png
+45,Burning Man,Black Rock City,40.7864,-119.2065,USA,37.0902,-95.7129,2024,70000,25-34,Art and Music Fans,USD 40 million,40000000.0,Various,https://flagcdn.com/w320/us.png
+46,Newport Music Festival,Newport,41.4901,-71.3128,USA,37.0902,-95.7129,2024,20000,35-44,Classical Music Fans,USD 8 million,8000000.0,Classical,https://flagcdn.com/w320/us.png
+47,Festival Internacional de Benicàssim,Benicàssim,40.047,0.0483,Spain,40.4637,-3.7492,2024,50000,25-34,Rock and Pop Fans,€22 million,23980000.0,Rock/Pop,https://flagcdn.com/w320/es.png
+48,Meltdown Festival,London,51.5074,-0.1278,UK,55.3781,-3.436,2024,30000,25-34,Rock and Alternative Fans,£15 million,18900000.0,Rock/Alternative,https://flagcdn.com/w320/gb.png
+49,Leeds Festival,Leeds,53.8008,-1.5491,UK,55.3781,-3.436,2024,80000,25-34,Rock and Alternative Fans,£35 million,44100000.0,Rock/Alternative,https://flagcdn.com/w320/gb.png
+50,Munich Music Festival,Munich,48.1351,11.582,Germany,51.1657,10.4515,2024,35000,25-34,Electronic and Rock Fans,€18 million,19620000.0,Electronic/Rock,https://flagcdn.com/w320/de.png
+51,Budapest Jazz Festival,Budapest,47.4979,19.0402,Hungary,47.1625,19.5033,2024,20000,35-44,Jazz Fans,€12 million,13080000.000000002,Jazz,https://flagcdn.com/w320/hu.png
+52,Gothenburg Film Festival,Gothenburg,57.7089,11.9746,Sweden,60.1282,18.6435,2024,20000,35-44,Film and Music Fans,SEK 8 million,800000.0,Various,https://flagcdn.com/w320/se.png
+53,Fusion Festival,Garz,54.3391,13.3637,Germany,51.1657,10.4515,2024,25000,25-34,Electronic and Alternative Fans,€12 million,13080000.000000002,Electronic/Alternative,https://flagcdn.com/w320/de.png
+54,Electric Castle Festival,Cluj-Napoca,46.7712,23.6236,Romania,45.9432,24.9668,2024,50000,25-34,Electronic and Rock Fans,€25 million,27250000.000000004,Electronic/Rock,https://flagcdn.com/w320/ro.png
+55,The Great Escape,Brighton,50.8225,-0.1372,UK,55.3781,-3.436,2024,20000,25-34,Emerging Artists and Indie Fans,£10 million,12600000.0,Indie,https://flagcdn.com/w320/gb.png
+56,Festival Internacional de Jazz,Montreal,45.5017,-73.5673,Canada,56.1304,-106.3468,2024,30000,35-44,Jazz Fans,CAD 10 million,7400000.0,Jazz,https://flagcdn.com/w320/ca.png
+57,Gothenburg International Music Festival,Gothenburg,57.7089,11.9746,Sweden,60.1282,18.6435,2024,25000,25-34,Various Music Genres,SEK 12 million,1200000.0,Various,https://flagcdn.com/w320/se.png
+58,Isle of Wight Festival,Isle of Wight,50.6938,-1.3047,UK,55.3781,-3.436,2024,60000,25-34,Rock and Pop Fans,£30 million,37800000.0,Rock/Pop,https://flagcdn.com/w320/gb.png
+59,Tivoli Music Festival,Florence,43.7696,11.2558,Italy,41.8719,12.5674,2024,25000,25-34,Classical and Jazz Fans,€10 million,10900000.0,Classical/Jazz,https://flagcdn.com/w320/it.png
+60,Pride Festival,Amsterdam,52.3676,4.9041,Netherlands,52.1326,5.2913,2024,60000,25-34,LGBTQ+ and Pop Fans,€30 million,32700000.000000004,Pop,https://flagcdn.com/w320/nl.png
+61,Art Basel Music Festival,Miami,25.7617,-80.1918,USA,37.0902,-95.7129,2024,40000,35-44,Art and Music Enthusiasts,USD 20 million,20000000.0,Various,https://flagcdn.com/w320/us.png
+62,Thunderbolt Festival,Oslo,59.9139,10.7522,Norway,60.472,8.4689,2024,35000,25-34,Rock and Indie Fans,NOK 15 million,1500000.0,Rock/Indie,https://flagcdn.com/w320/no.png
+63,Sea Dance Festival,Budva,42.2866,18.8419,Montenegro,42.7087,19.3744,2024,50000,25-34,EDM and Techno Fans,€20 million,21800000.0,EDM/Techno,https://flagcdn.com/w320/me.png
+64,Tenerife Music Festival,San Cristóbal de La Laguna,28.4853,-16.3201,Spain,40.4637,-3.7492,2024,30000,25-34,Pop and Indie Fans,€12 million,13080000.000000002,Pop/Indie,https://flagcdn.com/w320/es.png
+65,Desertfest Berlin,Berlin,52.52,13.405,Germany,51.1657,10.4515,2024,40000,25-34,Stoner Rock and Metal Fans,€25 million,27250000.000000004,Stoner Rock/Metal,https://flagcdn.com/w320/de.png
+66,Maui Arts & Cultural Center Festival,Kahului,20.8895,-156.4743,USA,37.0902,-95.7129,2024,25000,35-44,Various Arts and Music Fans,USD 10 million,10000000.0,Various,https://flagcdn.com/w320/us.png
+67,Vive Latino Festival,Mexico City,19.4326,-99.1332,Mexico,23.6345,-102.5528,2024,50000,25-34,Rock and Latin Music Fans,MXN 25 million,1350000.0,Rock/Latin,https://flagcdn.com/w320/mx.png
+68,Darker Days Festival,Brussels,50.8503,4.3517,Belgium,50.5039,4.4699,2024,30000,25-34,Dark and Electronic Fans,€15 million,16350000.000000002,Dark/Electronic,https://flagcdn.com/w320/be.png
+69,Summer Sonic Festival,Tokyo,35.6895,139.6917,Japan,36.2048,138.2529,2024,60000,25-34,Rock and Electronic Fans,JPY 40 million,296000.0,Rock/Electronic,https://flagcdn.com/w320/jp.png
+70,Festival de Música de La Rioja,Logroño,42.4627,-2.444,Spain,40.4637,-3.7492,2024,25000,35-44,Classical and Jazz Fans,€12 million,13080000.000000002,Classical/Jazz,https://flagcdn.com/w320/es.png
+71,Hove Festival,Hove,50.8358,-0.1733,UK,55.3781,-3.436,2024,35000,25-34,Indie and Rock Fans,£15 million,18900000.0,Indie/Rock,https://flagcdn.com/w320/gb.png
+72,Celtic Connections,Glasgow,55.8642,-4.2518,UK,55.3781,-3.436,2024,40000,35-44,Folk and Celtic Music Fans,£20 million,25200000.0,Folk/Celtic,https://flagcdn.com/w320/gb.png
+73,Lollapalooza Chile,Santiago,-33.4489,-70.6693,Chile,-35.6751,-71.543,2024,50000,25-34,Rock and Electronic Fans,CLP 20 million,26000.0,Rock/Electronic,https://flagcdn.com/w320/cl.png
+74,Bergen International Festival,Bergen,60.3913,5.3221,Norway,60.472,8.4689,2024,30000,35-44,Classical and Folk Fans,NOK 20 million,2000000.0,Classical/Folk,https://flagcdn.com/w320/no.png
+75,Budapest Festival Orchestra,Budapest,47.4979,19.0402,Hungary,47.1625,19.5033,2024,20000,35-44,Classical Music Fans,€15 million,16350000.000000002,Classical,https://flagcdn.com/w320/hu.png
+76,Electric Picnic,Stradbally,53.0098,-7.1513,Ireland,53.1424,-7.6921,2024,50000,25-34,Indie and Electronic Fans,€30 million,32700000.000000004,Indie/Electronic,https://flagcdn.com/w320/ie.png
+77,Blue Balls Festival,Lucerne,47.0502,8.3093,Switzerland,46.8182,8.2275,2024,35000,35-44,Jazz and Blues Fans,CHF 15 million,17100000.0,Jazz/Blues,https://flagcdn.com/w320/ch.png
+78,Lollapalooza Buenos Aires,Buenos Aires,-34.6037,-58.3816,Argentina,-38.4161,-63.6167,2024,60000,25-34,Rock and Electronic Fans,ARS 20 million,196000.0,Rock/Electronic,https://flagcdn.com/w320/ar.png
