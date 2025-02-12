@@ -5,6 +5,6 @@ scikit-learn
 requests
 seaborn
 matplotlib
-folium
 sqlalchemy
 streamlit_folium
+psycopg2
